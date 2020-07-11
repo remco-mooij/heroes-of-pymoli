@@ -1,4 +1,5 @@
 # Heroes of Pymoli
+![Fantasy](https://github.com/remco-mooij/heroes-of-pymoli/blob/master/fantasy.png)
 
 This was an exercise to gain and demonstrate skills in Python Pandas. The purpose was to analyze data from a fictional fantasy game called Heroes of Pymoli.
 
