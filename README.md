@@ -1,6 +1,6 @@
 # Heroes of Pymoli
 
-This was an exercise to gain and demonstrate skills in Python Pandas. The purpose was to analyze from a fictional fantasy game called Heroes of Pymoli.
+This was an exercise to gain and demonstrate skills in Python Pandas. The purpose was to analyze data from a fictional fantasy game called Heroes of Pymoli.
 
 ## Trend Analysis
 
